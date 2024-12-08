@@ -14,4 +14,4 @@ POO en PHP
 
 📚 Ressources
 
-Exercice réalisé dans le cadre de la formation Elan formation
+Exercice réalisé dans le cadre de la formation DWWM Elan formation
